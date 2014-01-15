@@ -63,3 +63,4 @@ export VIRTUALENVWRAPPER_SCRIPT=/usr/bin/virtualenvwrapper.sh
 
 PATH=$PATH:$HOME/.gem/ruby/2.0.0/bin
 
+PATH=$PATH:$HOME/.cabal/bin
