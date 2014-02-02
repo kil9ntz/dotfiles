@@ -1287,7 +1287,7 @@ xkb_symbols "pc+us+hu(qwerty):2+inet(evdev)+group(switch)+ctrl(nocaps)" {
         type[group2]= "FOUR_LEVEL_SEMIALPHABETIC",
         symbols[Group1]= [       semicolon,           colon ],
         symbols[Group2]= [          eacute,          Eacute,          dollar,            cent ],
-        overlay1=<UP>
+        overlay1=<RGHT>
     };
     key <AC11> {
         type[group2]= "FOUR_LEVEL_SEMIALPHABETIC",
