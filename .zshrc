@@ -61,6 +61,6 @@ export VIRTUALENVWRAPPER_SCRIPT=/usr/bin/virtualenvwrapper.sh
 
 #PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 
-PATH=$PATH:$HOME/.gem/ruby/2.0.0/bin
+PATH=$PATH:$HOME/.gem/ruby/2.1.0/bin
 
 PATH=$PATH:$HOME/.cabal/bin
